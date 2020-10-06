@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\visual studio\4\lab 1\lab 1\source.cpp(20): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note:  см. объявление "localtime"
+d:\visual studio\4\lab 1\lab 1\source.cpp(21): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(116): note:  см. объявление "asctime"
+  lab 1.vcxproj -> D:\Visual Studio\4\lab 1\Debug\lab 1.exe
